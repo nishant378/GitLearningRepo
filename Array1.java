@@ -14,5 +14,5 @@ public class Array1 {
 		{
 			System.out.println("Element of array is:"+a[i]);
 		}
-	}
+	}//comments
 }
